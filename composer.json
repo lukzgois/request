@@ -1,0 +1,24 @@
+{
+  "name": "lukzgois/request",
+  "description": "Extend Laravel 5's request.",
+  "keywords": ["laravel", "request"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Padilha Gois",
+      "email": "lucaspgois@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lukzgois\\Request\\": "src/"
+    }
+  }
+}
