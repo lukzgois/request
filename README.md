@@ -10,7 +10,7 @@ Package that exteds the Laravel 5 FormRequest class to easily create custom vali
 In the `require` key of `composer.json` file add the following
 
 ```
-"artesaos/zipcode": "dev-master"
+"lukzgois/request": "dev-master"
 ```
 
 Run the Composer update comand
